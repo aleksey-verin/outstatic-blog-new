@@ -10,7 +10,7 @@ coverImage: '/images/flycream-travel.png'
 publishedAt: '2022-09-14T17:55:40.452Z'
 ---
 
-Everything's good with me, my fam and my dreams are coming true. One at a time, one at a time.
+`Everything's` good with me, my fam and my dreams are coming true. One at a time, one at a time.
 
 ## I love it!
 
