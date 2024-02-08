@@ -1,6 +1,6 @@
 ---
 title: 'My new article'
-status: 'draft'
+status: 'published'
 author:
   name: 'Aleksey Verin'
   picture: 'https://avatars.githubusercontent.com/u/105841498?v=4'

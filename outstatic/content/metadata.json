@@ -1,6 +1,6 @@
 {
-  "commit": "74c862b21de6dcadc45fb6be9a54dc36b91ff365",
-  "generated": "2024-02-08T06:29:11.787Z",
+  "commit": "cf2698f6f85cdd1a6fb346696441cb6691a122b4",
+  "generated": "2024-02-08T06:29:18.618Z",
   "metadata": [
     {
       "__outstatic": {
@@ -139,8 +139,8 @@
     },
     {
       "__outstatic": {
-        "commit": "74c862b21de6dcadc45fb6be9a54dc36b91ff365",
-        "hash": "1386725597",
+        "commit": "cf2698f6f85cdd1a6fb346696441cb6691a122b4",
+        "hash": "2758535360",
         "path": "outstatic/content/articles/my-new-article.md"
       },
       "author": {
@@ -152,7 +152,7 @@
       "description": "",
       "publishedAt": "2024-02-08T06:45:38.772Z",
       "slug": "my-new-article",
-      "status": "draft",
+      "status": "published",
       "title": "My new article"
     }
   ]
