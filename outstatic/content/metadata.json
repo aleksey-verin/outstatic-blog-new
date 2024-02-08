@@ -1,6 +1,6 @@
 {
-  "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-  "generated": "2024-02-07T20:29:11.219Z",
+  "commit": "74c862b21de6dcadc45fb6be9a54dc36b91ff365",
+  "generated": "2024-02-08T06:29:11.787Z",
   "metadata": [
     {
       "__outstatic": {
@@ -136,6 +136,24 @@
       "slug": "flycream-travel",
       "status": "published",
       "title": "Flycream Travel"
+    },
+    {
+      "__outstatic": {
+        "commit": "74c862b21de6dcadc45fb6be9a54dc36b91ff365",
+        "hash": "1386725597",
+        "path": "outstatic/content/articles/my-new-article.md"
+      },
+      "author": {
+        "name": "Aleksey Verin",
+        "picture": "https://avatars.githubusercontent.com/u/105841498?v=4"
+      },
+      "collection": "articles",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-08T06:45:38.772Z",
+      "slug": "my-new-article",
+      "status": "draft",
+      "title": "My new article"
     }
   ]
 }
